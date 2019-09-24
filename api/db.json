@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "Okay lol",
+      "description": "okay ouais",
+      "id": 1
+    },
+    {
+      "title": "Titre d'un film sympa",
+      "description": "Description d'un film sympa",
+      "id": 2
+    },
+    {
+      "title": "Entrepreneur Houses",
+      "description": "YES",
+      "id": 8
+    },
+    {
+      "title": "Michel Houses",
+      "description": "La maison a michel",
+      "id": 9
+    },
+    {
+      "title": "Entrepreneur Houses",
+      "description": "JOKES",
+      "id": 10
+    },
+    {
+      "title": "MOSNTER",
+      "description": "Miegeok okwdo and stuff",
+      "userId": "109616298644673806731",
+      "id": 11
+    },
+    {
+      "title": "Gros Machin Blanc",
+      "description": "En general les gros machins sont noirs",
+      "userId": "109616298644673806731",
+      "id": 12
+    }
+  ]
+}
